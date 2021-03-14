@@ -7,5 +7,6 @@ Java 11,
 GraalVm 21.0.0,
 lombok,
 jackson,
-Protobuf
+Protobuf,
+Protoc
 
